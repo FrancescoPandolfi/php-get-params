@@ -15,15 +15,10 @@ $paragrafi = explode(". ", $paragrafo);
   <body>
 
     <?php
-
       for ($i=0; $i < count($paragrafi) ; $i++) {
-
         echo "<p>$paragrafi[$i]</p>";
-
       }
-
-
     ?>
-
+    
   </body>
 </html>
