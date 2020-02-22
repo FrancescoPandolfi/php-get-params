@@ -2,7 +2,8 @@
 
 <?php
 $password = $_GET['password'];
-$colore = ($password == "boolean") ? 'verde' : 'rosso'
+$colore = ($password == "boolean") ? 'verde' : 'rosso';
+
 ?>
 
 
